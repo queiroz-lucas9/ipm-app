@@ -1,0 +1,8 @@
+{
+  "name": "ipm-app",
+  "app_id": "10248dfd",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
